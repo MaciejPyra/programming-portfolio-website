@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pandas on Home Page</title>
+    <link>https://maciejpyra.github.io/programming-portfolio-website/tags/pandas/</link>
+    <description>Recent content in pandas on Home Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 May 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://maciejpyra.github.io/programming-portfolio-website/tags/pandas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Face recognition using convolutional neural networks</title>
+      <link>https://maciejpyra.github.io/programming-portfolio-website/post/project-1/</link>
+      <pubDate>Mon, 02 May 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://maciejpyra.github.io/programming-portfolio-website/post/project-1/</guid>
+      <description>The lastest version of the project was uploaded directly to my GitHub Repository.
+Here you can find only outline of the work. Please look at the GitHub README file to see very detailed documentation describing the model building process! Repo includes Python code for models building, processing steps like a try to understand the whole dataset, image preprocessing and data normalization.
+ Project scope:
+ Introduction  Why convolutional neural network?</description>
+    </item>
+    
+  </channel>
+</rss>

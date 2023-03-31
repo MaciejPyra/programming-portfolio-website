@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science / Programming Portfolio on Home Page</title>
+    <link>https://maciejpyra.github.io/programming-portfolio-website/</link>
+    <description>Recent content in Data Science / Programming Portfolio on Home Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 May 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://maciejpyra.github.io/programming-portfolio-website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Face recognition using convolutional neural networks</title>
+      <link>https://maciejpyra.github.io/programming-portfolio-website/post/project-1/</link>
+      <pubDate>Mon, 02 May 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://maciejpyra.github.io/programming-portfolio-website/post/project-1/</guid>
+      <description>The lastest version of the project was uploaded directly to my GitHub Repository.
+Here you can find only outline of the work. Please look at the GitHub README file to see very detailed documentation describing the model building process! Repo includes Python code for models building, processing steps like a try to understand the whole dataset, image preprocessing and data normalization.
+ Project scope:
+ Introduction  Why convolutional neural network?</description>
+    </item>
+    
+    <item>
+      <title>Project II: Web Scraping using Python</title>
+      <link>https://maciejpyra.github.io/programming-portfolio-website/post/project-2/</link>
+      <pubDate>Thu, 03 Feb 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://maciejpyra.github.io/programming-portfolio-website/post/project-2/</guid>
+      <description>The lastest version of the project was uploaded directly to my GitHub Repository.
+Here you can find only outline of the work. Please look at the GitHub README file to see very detailed documentation describing how the program works! Repo includes final source code and two Excels with analysis results. Each of them provides real data concerning laptop names and their prices - attributes extracted directly from the Web.
+ Project scope:</description>
+    </item>
+    
+    <item>
+      <title>Project III: R Shiny Web Application</title>
+      <link>https://maciejpyra.github.io/programming-portfolio-website/post/project-3/</link>
+      <pubDate>Fri, 22 Oct 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://maciejpyra.github.io/programming-portfolio-website/post/project-3/</guid>
+      <description>The lastest version of the project was uploaded directly to my GitHub Repository.
+Here you can find only outline of the work. Please look at the GitHub README file to see very detailed documentation describing how the app works! Repo includes final source code and one Excel file called &amp;ldquo;Covid.csv&amp;rdquo; with source data which is necessary to perform analysis on the server side of application.
+ Project scope:
+ Introduction  What is Shiny application?</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://maciejpyra.github.io/programming-portfolio-website/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maciejpyra.github.io/programming-portfolio-website/about/</guid>
+      <description>I&amp;rsquo;m Maciej Pyra - Data Scientist and Python Developer who is passionate for exploring relationships between variables and recognition of hidden data patterns. My interest in cutting edge tools and technologies allows me to combine my career path with my hobbies.
+I really enjoy programming in Python the most - this language together with SQL (databases integration) was and is still used most often in my business projects, but I am open to other programming languages, predominantly R and Julia.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://maciejpyra.github.io/programming-portfolio-website/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maciejpyra.github.io/programming-portfolio-website/contact/</guid>
+      <description>Do not hesitate to contact me in English 🇬🇧 , German 🇩🇪 or Polish 🇵🇱. You can click either on the links below or on the icons in the upper right corner of the page.
+   Platform URL     LinkedIn: https://www.linkedin.com/in/maciej-pyra/   GitHub: https://github.com/MaciejPyra    </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Covid-19 on Home Page</title>
+    <link>https://maciejpyra.github.io/programming-portfolio-website/tags/covid-19/</link>
+    <description>Recent content in Covid-19 on Home Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Oct 2021 11:13:32 -0400</lastBuildDate><atom:link href="https://maciejpyra.github.io/programming-portfolio-website/tags/covid-19/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project III: R Shiny Web Application</title>
+      <link>https://maciejpyra.github.io/programming-portfolio-website/post/project-3/</link>
+      <pubDate>Fri, 22 Oct 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://maciejpyra.github.io/programming-portfolio-website/post/project-3/</guid>
+      <description>The lastest version of the project was uploaded directly to my GitHub Repository.
+Here you can find only outline of the work. Please look at the GitHub README file to see very detailed documentation describing how the app works! Repo includes final source code and one Excel file called &amp;ldquo;Covid.csv&amp;rdquo; with source data which is necessary to perform analysis on the server side of application.
+ Project scope:
+ Introduction  What is Shiny application?</description>
+    </item>
+    
+  </channel>
+</rss>
