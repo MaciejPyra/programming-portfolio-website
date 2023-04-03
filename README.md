@@ -2,7 +2,7 @@
 
 The aim of the project was to develop programming portfolio webstite to showcase the most significant personal projects in a nice form without a need to visit Github. Website is hosted directly from this GitHub repository using GitHub pages. This service converts repo files and folders into a full-fledged internet website which can be accessed via a standard URL link.
 
-My portfolio provides examples of performed programming and data science projects. Additionally, you can there find out more about my skills and technical background. To visit the abovementioned website click on my [Portfolio](https://maciejpyra.github.io/programming-portfolio-website/).
+My portfolio provides examples of performed programming and data science projects. Additionally, you can find out more about my skills and technical background there. To visit the abovementioned website click on my [Portfolio](https://maciejpyra.github.io/programming-portfolio-website/).
 
 
 # Table of Contents
@@ -10,7 +10,7 @@ My portfolio provides examples of performed programming and data science project
   * [Introduction](#intro)
      * [What is Hugo framework?](#intro1)
      * [Technology Stack](#intro2)
-  * [How the site is built and puslished?](#desc)
+  * [How the site is built and published?](#desc)
      * [Building the site](#desc1)
      * [Deploying the site using github Pages](#desc2)
 
@@ -40,7 +40,7 @@ All the content is static and does not change once the user is viewing the page.
 
 
 <a name="desc"></a>
-## How the site is built and puslished?
+## How the site is built and published?
 
 <a name="desc1"></a>
 ### Building the site
