@@ -1,13 +1,8 @@
-# programming-portfolio-website
-My portfolio website provides examples of performed programming and data science projects.
-To visit the abovementioned website click on my [Portfolio](https://maciejpyra.github.io/programming-portfolio-website/).
-
-
 # Programming Portfolio Website
 
-The aim of the project was to develop web scraping tool which is a software program designed specifically to extract (or ‘scrape’) relevant information from internet websites. By making a request to respective URLs my tool is able to find specific data in the HTML. What is important, my program is totally independent of any external website APIs and therefore is very flexible.
+The aim of the project was to develop programming portfolio webstite to showcase the most significant personal projects in a nice form without a need to visit Github. Website is hosted directly from this GitHub repository using GitHub pages. This service converts repo files and folders into a full-fledged internet website which can be accessed via a standard URL link.
 
-Please note that repo includes final source code and two Excels with results of analysis. Each of them provides real data concerning laptop names and their prices - attributes extracted directly from two websites, respectively from www.euro.com.pl and www.komputronik.pl.
+My portfolio provides examples of performed programming and data science projects. Additionally, you can there find out more about my skills and technical background. To visit the abovementioned website click on my [Portfolio](https://maciejpyra.github.io/programming-portfolio-website/).
 
 
 # Table of Contents
@@ -26,7 +21,7 @@ Please note that repo includes final source code and two Excels with results of 
 ### What is Hugo framework?
 
 <p align="center">
-  <img src="https://github.com/MaciejPyra/web-scraping/blob/main/Web_Scraping.JPG" />
+  <img src="https://github.com/MaciejPyra/programming-portfolio-website/blob/main/GitHub_Hugo.png" />
 </p>
 
 Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.
