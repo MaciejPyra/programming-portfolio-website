@@ -26,9 +26,9 @@ My portfolio provides examples of performed programming and data science project
 
 Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.
 
-Hugo as a static site generator allows to create a website with little to no code. However, it is still possible to dive into the code to make changes to its structure. Hugo uses Go templates to make use of variables and placeholders within HTML files. Static site generators allow to write content in a simple markup language, in this case Markdown. Then, content is transformed into static HTML files. It applies any templates or styles to pages before serving them up to the user.
+Hugo as a static site generator allows to create a website with little to no code. However, it is still possible to dive into the code to make changes to its structure. Hugo uses Go templates to make use of variables and placeholders within HTML files. Static site generators allow to write content in a simple markup language - Markdown. Then, content is transformed into static HTML files. It applies any templates or styles to pages before serving them up to the user.
 
-All the content is static and does not change once the user is viewing the page. Therefore, there is no need to worry about constant requests to a server, databases or dynamic data.
+All the content is static and does not change once the user is viewing the page. Due to the lack of the need to have complex interactivity, there is no need to worry about constant requests to a server, database configuration or dynamic data management.
 
 
 <a name="intro2"></a>
@@ -58,5 +58,6 @@ Initially, tool makes HTTP requests respectively to www.euro.com.pl and www.komp
 <a name="desc2"></a>
 ### Deploying the site using github Pages
 
-GitHub Pages is Github feature which allows to publish website code live on the Web.
-You can specify which branch and folder to use as your publishing source. Whenever changes are pushed to the source branch, the changes in the source folder will be published to your GitHub Pages site.
+GitHub Pages is GitHub feature which allows to publish website code live on the Web and make site publicly available. It is possible to specify which branch and folder to use as publishing source. The content of programming poftfolio repository is deployed from the main branch. Whenever changes are pushed to the source branch, the changes in the source folder will be published to the GitHub Pages site.
+
+Easy setup, fast publishing and HTTPS support are among the most significant strengths of GitHub Pages as the hosting service. It takes only a few simple steps to enable feauture for repository and specify the source for website files. As a result, GitHub automatically publishes website and make it available at a URL based on username and repository name. Additionally, GitHub Pages offers support for HTTPS, which allows for secure connections to portfolio website. This is crucial for building the trust of the site.
