@@ -58,3 +58,5 @@ Initially, tool makes HTTP requests respectively to www.euro.com.pl and www.komp
 <a name="desc2"></a>
 ### Deploying the site using github Pages
 
+GitHub Pages is Github feature which allows to publish website code live on the Web.
+You can specify which branch and folder to use as your publishing source. Whenever changes are pushed to the source branch, the changes in the source folder will be published to your GitHub Pages site.
