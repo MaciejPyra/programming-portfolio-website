@@ -61,6 +61,6 @@ Github repo includes only final rendered HTML files needed to publish the websit
 <a name="desc2"></a>
 ### Deploying the site using GitHub Pages hosting service
 
-GitHub Pages is GitHub feature which allows to publish website code live on the Web and make site publicly available. It is possible to specify which branch and folder to use as publishing source. The content of programming poftfolio repository is deployed from the main branch. Whenever changes are pushed to the source branch, the changes in the source folder will be published to the GitHub Pages site.
+GitHub Pages is GitHub feature which allows to publish website code live on the Web and make site publicly available. It is possible to specify which branch and folder to use as publishing source. The content of programming portfolio repository is deployed from the main branch. Whenever changes are pushed to the source branch, the changes in the source folder will be published to the GitHub Pages site.
 
 Easy setup, fast publishing and HTTPS support are among the most significant strengths of GitHub Pages as the hosting service. It takes only a few simple steps to enable feature for repository and specify the source for website files. As a result, GitHub automatically publishes website and make it available at a URL based on username and repository name. Additionally, GitHub Pages offers support for HTTPS, which allows for secure connections to portfolio website. This is crucial for building the trust of the site.
