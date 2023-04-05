@@ -28,7 +28,7 @@ Hugo is one of the most popular open-source static site generators. With its ama
 
 Hugo as a static site generator allows to create a website with little to no code. However, it is still possible to dive into the code to make changes to its structure. Hugo uses Go templates to make use of variables and placeholders within HTML files. Static site generators allow to write content in a simple markup language - Markdown. Then, content is transformed into static HTML files. It applies any templates or styles to pages before serving them up to the user.
 
-All the content is static and does not change once the user is viewing the page. Due to the lack of the need to have complex interactivity, there is no need to worry about constant requests to a server, database configuration or dynamic data management.
+All the content is static and does not change once the user is viewing the page. Due to the lack of complex interactivity, there is no need to worry about constant requests to a server, database configuration or dynamic data management.
 
 
 <a name="intro2"></a>
