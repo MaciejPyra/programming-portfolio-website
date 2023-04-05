@@ -44,15 +44,18 @@ All the content is static and does not change once the user is viewing the page.
 
 <a name="desc1"></a>
 ### Building the site
-The whole process could be dived into 5 steps:
 
-1. Identify the target website
-3. Collect URLs of the pages where you want to extract data from
-4. Make a request to these URLs to get the HTML of the page
-5. Use locators to find the data in the HTML
-6. Save the data in a CSV file
+Hugo makes creating, managing, and maintaining a website easy. The content and presentation are separated, making it simple to change the look and feel of the site without affecting the other content. 
 
-Initially, tool makes HTTP requests respectively to www.euro.com.pl and www.komputronik.pl websites. The scraper loads the entire HTML code for the page in question. Then, received HTML is parsed by BeautifulSoup library and program starts automatic extraction of the interesting data from a given page. After analyzing one specific page, a link to the following one is searched for in its HTML. Thanks to that, tool is self-sufficient and program can jump between pages without user involvement. Finally, the most significant data is saved into a CSV format that is more useful to the end user.
+To build the Hugo website it is needed to create markdown files which are rendered to the HTML content during transformation process. In fact, markdown files are used to populate already prepared Hugo templates.
+
+Github repo includes only final rendered HTML files needed to publish the website. Structure includes among others folders like:
+
+1. about - contains index.html file building "About" page on the website
+2. contact - contains index.html file building "Contact" page on the website
+3. post folder - contains subfolders with project pages displayed on "Projects" page. Each subfolder has its own index.html file building specific project page
+4. images - contains jpg and png images displayed on the subsequent pages of website
+5. tags - contains web tags contained within the website 
 
 
 <a name="desc2"></a>
