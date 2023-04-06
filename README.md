@@ -1,8 +1,8 @@
-# Programming Portfolio Website
+# Programming Portfolio Website -> To visit app, click [Portfolio link](https://maciejpyra.github.io/programming-portfolio-website/).
 
 The aim of the project was to develop programming portfolio webstite to showcase the most significant personal projects in a nice form without a need to visit Github. Website is hosted directly from this GitHub repository using GitHub pages. This service converts repo files and folders into a full-fledged internet website which can be accessed via a standard URL link.
 
-My portfolio provides examples of performed programming and data science projects. Additionally, you can find out more about my skills and technical background there. To visit the website click on my [Portfolio](https://maciejpyra.github.io/programming-portfolio-website/).
+My portfolio provides examples of performed programming and data science projects. Additionally, you can find out more about my skills and technical background there.
 
 
 # Table of Contents
