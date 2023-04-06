@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Framework on Home Page</title>
+    <link>https://maciejpyra.github.io/programming-portfolio-website/tags/hugo-framework/</link>
+    <description>Recent content in Hugo Framework on Home Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Sep 2021 11:13:32 -0400</lastBuildDate><atom:link href="https://maciejpyra.github.io/programming-portfolio-website/tags/hugo-framework/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project IV: Programming Portfolio Website</title>
+      <link>https://maciejpyra.github.io/programming-portfolio-website/post/project-4/</link>
+      <pubDate>Fri, 10 Sep 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://maciejpyra.github.io/programming-portfolio-website/post/project-4/</guid>
+      <description>The lastest version of the project was uploaded directly to my GitHub Repository.
+Here you can find only outline of the work. Please look at the GitHub README file to see very detailed documentation describing how the website is built and deployed! Repo includes final rendered HTML files, images and tags needed to build the site.
+ Project scope:
+ Introduction  What is Hugo framework? Technology Stack   How the site is built and published?</description>
+    </item>
+    
+  </channel>
+</rss>
